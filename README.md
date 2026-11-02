@@ -1,4 +1,4 @@
 # project-1
-first git repository.
+First git repository.
 <br>
-author-subi
+Author-subi
